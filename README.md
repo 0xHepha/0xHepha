@@ -19,7 +19,7 @@ I believe in the power of community and collaboration. Reach out if you'd like t
 
 ## 📫 Reach Me
 - Discord: 0xhepha
-- Email: 0xHepha@example.com
+- Email: 0xHepha@gmail.com
 
   
 ## ✨ Fun Rollercoaster Journey
