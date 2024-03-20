@@ -5,6 +5,7 @@ I am a passionate technologist, currently diving deep into the world of blockcha
 ## 🔭 Current Projects
 
 I'm currently working on:
+- Custom made web development : [Hepha Studios](https://www.hephastudios.com/)
 - A custom made blokchain explorer focused on various user types interfaces. Base intial demo: [ArgusNet](https://argusnet.hephastudios.com)
 - Exploring the creation and execution of smart-contracts using pure OP codes
 
