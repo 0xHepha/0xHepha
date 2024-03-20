@@ -5,7 +5,7 @@ I am a passionate technologist, currently diving deep into the world of blockcha
 ## 🔭 Current Projects
 
 I'm currently working on:
-- A custom made blokchain explorer focused on various user types interfaces. Base intial demo: [ArgusNet](https://argusnet.vercel.app/)
+- A custom made blokchain explorer focused on various user types interfaces. Base intial demo: [ArgusNet]([https://argusnet.vercel.app/](https://argusnet.hephastudios.com/)
 - Exploring the creation and execution of smart-contracts using pure OP codes
 
 ## 🌱 Learning Goals
